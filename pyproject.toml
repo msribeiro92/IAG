@@ -2,5 +2,6 @@
 requires = [
     "pandas",
     "xlrd",
+    "openpyxl",
 ]
 build-backend = "setuptools.build_meta"
